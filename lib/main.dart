@@ -23,7 +23,7 @@ final List<String> listeQuestions = [
   "2. Flutter permet de faire des applications web également ?",
   "3. Php est le language utilisé par Flutter ?",
   "4. La lune a sa propre atmosphère?",
-  "5. Un octet est composé de 10 bits."
+  "5. Un octet est composé de 10 bits.",
 ];
 final List<bool> listeReponses = [true, false, true, true, false];
 
